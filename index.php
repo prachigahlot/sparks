@@ -43,7 +43,7 @@ and open the template in the editor.
             <footer>
                 <div class="container">
                     <center>
-                        <p>Copyright © Credit Management. All Rights Reserved |</p>
+                          <p>Copyright © Credit Management. All Rights Reserved |</p>
                     </center>
                 </div>
             </footer>        
